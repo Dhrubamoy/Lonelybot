@@ -26,19 +26,19 @@ _get_repolink () {
 _setting_bot () {
     local zippath
     zippath="LonelyBot.zip"
-    echo "  Downloading LONELYBOT V1.O Source Code..."
+    echo "  Downloading ⪨Lonelyboτ⪩  V1.O Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
     LONELYPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  LONELYBot V3.O Cleaning.."
+    echo "  ⪨Lonelyboτ⪩  V3.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $LONELYPATH
-    echo "    ⚜️Starting LONELYBOT⚜️     "
+    echo "    ⚜️Starting ⪨Lonelyboτ⪩ ⚜️     "
     echo "
-    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+    🇮🇳🇮🇳OP ⪨Lonelyboτ⪩  �
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
