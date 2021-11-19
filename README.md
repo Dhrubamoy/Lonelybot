@@ -53,27 +53,7 @@
 
 ## Deploy Locally
 
-- Clone the repo. 
-
-`git clone https://github.com/Dhrubamoy/Lonelyub.git`
-- Open Cloned Folder.
-
-`cd Lonelyub`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate Legend STRING.
-
-`python LegendString.py`
-- Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
-
-`bash ./LEGENDBOT/start.sh`
+WILL BE PROVIDED LATER
 
 ---------
 
