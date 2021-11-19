@@ -84,6 +84,16 @@ WILL BE PROVIDED LATER
 
 [![String](https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg)](https://replit.com/@Dhrubamoy/lonelybot#main.py) 
 
+
+
+
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Dhrubamoy/lonelybot#main.py)
+
+
+
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Dhrubamoy/Lonelybot)
+
     - Click On Generate String
     - Then Click On Green Run Button.
     - Wait for a while then fill the details.
