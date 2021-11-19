@@ -50,16 +50,16 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@",
+      "value": "@lonely_userbot",
       "required": false
     },
     "YOUR_CHANNEL": {
-      "description": "Set Ur Group Username",
-      "value": "@Official_LegendBot",
+      "description": "Set Ur channel Username",
+      "value": "@lonely_userbot",
       "required": false
     },
     "BOY_OR_GIRL": {
-      "description": "Set If U are Boy Or Girl",
+      "description": "Set If U are Boy Or Girl note by making it boy ucan have more command and module also 18+ command",
       "value": "Boy",
       "required": false
     },
@@ -70,27 +70,27 @@
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "",
+      "value": "https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ 𝖑𝖊ɠêɳ̃dẞø✞︎ @Legend_Userbot",
+      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ⪨Lonelyboτ⪩",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg",
       "required": false
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ⪨Lonelyboτ⪩ .\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -131,7 +131,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@Dhrubamoy/lonelybot#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -153,7 +153,7 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In lonely Command default 7",
       "value": "7",
       "required": true
     },
