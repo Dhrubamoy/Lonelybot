@@ -100,22 +100,17 @@ WILL BE PROVIDED LATER
     - String will be saved in your Saved Message.
 
 
-### Terminal
-- Open the terminal.
-- Paste this code.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/LEGEND-BOYOP/TUTORIALUSERBOT/master/LegendString.py && python3 LegendString.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
-
+### NOTE
+`While u generate string sesson u need to provide the password of two step verification`
+`This is because u need to give acces to the bot to enter your account and use the command and the advantages of the bot`
+`Credits`
+`This userbot is made by @Dhruba_Xd`
+`With the help of @The_legendboy`
 
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
-- TutorialBot was made for fun purpose and to make group management easier.
+- LonelyBot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
@@ -130,7 +125,7 @@ WILL BE PROVIDED LATER
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [⪨Lonelyboτ⪩](https://github.com/Dhrubamoy/Lonelybot) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
