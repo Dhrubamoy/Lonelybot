@@ -1,7 +1,7 @@
 {
   "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ @Dhruba_XD. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/Dhrubamoy/Lonelybot/",
+  "website": "https://github.com/Dhrubamoy/Lonelybot/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -19,13 +19,13 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "description": "Fill your Full name. By default it is  ⪨Lonely⪩ User",
+      "value": "⪨Lonely⪩",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 Online",
+      "value": "⪨Lonelyboτ⪩ 𝐈𝐬 Online",
       "required": false
     },
     "ABUSE": {
@@ -50,7 +50,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@",
       "required": false
     },
     "YOUR_CHANNEL": {
