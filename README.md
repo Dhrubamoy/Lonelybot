@@ -49,7 +49,7 @@
 </a>
 
 
-[![Deploy](https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT&template=https%3A%2F%2Fgithub.com%2FLEGEND-OS%2FLEGENDBOT)
+[![Deploy](https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDhrubamoy%2FLonelybot&template=https%3A%2F%2Fgithub.com%2FDhrubamoy%2FLonelybot)
 
 ## Deploy Locally
 
