@@ -123,7 +123,7 @@ WILL BE PROVIDED LATER
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+⪨Lonelyboτ⪩
 
 Poject [⪨Lonelyboτ⪩](https://github.com/Dhrubamoy/Lonelybot) is free software: you can redistribute it and/or modify
 
