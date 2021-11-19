@@ -82,7 +82,7 @@ WILL BE PROVIDED LATER
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/f65bfe50dfdc7b5c6accb.jpg)](https://replit.com/@Dhrubamoy/lonelybot#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
