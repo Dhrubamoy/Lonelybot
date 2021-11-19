@@ -30,7 +30,7 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/Dhrubamoy/Lonelybot/network/members"><img src="https://img.shields.io/github/forks/Dhrubamoy/Lonelybot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Dhrubamoy/Lonelybot/stargazers"><img src="https://img.shields.io/github/stars/Dhrubamoy/Lonelybot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Dhrubamoy/Lonelybot"></a><p align="left"><a href="https://github.com/Dhrubamoy/Lonelybot?"></a>
 
 ------
 ## Telegram 🏪
@@ -39,8 +39,8 @@
 
 ------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
+ The youtube video to deploy this bot havent came yet......
+      stay turned
 
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
